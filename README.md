@@ -9,6 +9,7 @@
 - https://blog.acolyer.org/2016/10/31/designing-software-for-ease-of-extension-and-contraction/
 - https://blog.acolyer.org/2016/09/12/on-designing-and-deploying-internet-scale-services/ (also see https://gist.github.com/acolyer/95ef23802803cb8b4eb5 as a checklist for large-scale services)
 - https://blog.acolyer.org/2019/11/20/local-first-software/
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 
 ## Books
