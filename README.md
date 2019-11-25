@@ -42,6 +42,7 @@
 - https://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html
 - Communication between microservices:
   - Using message queues for request/response - https://www.quora.com/Why-use-message-queues-for-a-request-response-pattern-which-is-synchronous-when-queues-are-asynchronous
+  - https://servicemesh.io/
 
 
 ## Idempotency
@@ -65,6 +66,8 @@
 
 ## Simultaneous Work (operational transforms, conflict-free replicated data types, etc.)
 - http://archagon.net/blog/2018/03/24/data-laced-with-history/
+- https://blog.acolyer.org/2019/11/25/mergeable-replicated-data-types-part-i/
+- https://blog.acolyer.org/2014/11/27/swiftcloud-fault-tolerant-geo-replication-integrated-all-the-way-to-the-client/
 
 
 ## Chaos Engineering
