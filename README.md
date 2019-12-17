@@ -19,6 +19,7 @@
 ## Event Sourcing/CQRS (Command-Query Responsibility Segregation)/Event Logging
 - https://www.ahri.net/2019/07/practical-event-driven-and-sourced-programs-in-haskell/
 - https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21 (Kafka replication performance tuning)
+- https://github.com/message-db/message-db (Implementation of messaging/events in Postgres)
 
 
 ## Databases
