@@ -72,6 +72,8 @@
 - http://archagon.net/blog/2018/03/24/data-laced-with-history/
 - https://blog.acolyer.org/2019/11/25/mergeable-replicated-data-types-part-i/
 - https://blog.acolyer.org/2014/11/27/swiftcloud-fault-tolerant-geo-replication-integrated-all-the-way-to-the-client/
+- https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/
+  - Also see discussion: https://news.ycombinator.com/item?id=22039950
 
 
 ## Chaos Engineering
