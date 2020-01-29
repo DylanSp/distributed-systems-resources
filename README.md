@@ -74,7 +74,7 @@
 - https://blog.acolyer.org/2014/11/27/swiftcloud-fault-tolerant-geo-replication-integrated-all-the-way-to-the-client/
 - https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/
   - Also see discussion: https://news.ycombinator.com/item?id=22039950
-- https://replicache.dev/ (Offline-first app development)
+- https://replicache.dev/ - Offline-first app development
 
 
 ## Chaos Engineering
