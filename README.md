@@ -79,3 +79,7 @@
 
 ## Chaos Engineering
 - https://www.gremlin.com/
+
+
+## Formal Methods
+- https://www.hillelwayne.com/post/business-case-formal-methods/
