@@ -29,6 +29,7 @@
 - https://engineering.salesforce.com/the-architecture-files-ep-2-the-crystal-shard-a6025bd9f968 (Salesforce scaling by sharding)
 - https://developer.salesforce.com/page/Multi_Tenant_Architecture (Details on Salesforce's multitenant architecture)
 - https://engineering.salesforce.com/inside-and-out-transactions-b9535faa5924 (transactions in Salesforce)
+- https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b (propagating changes from a database to other data stores)
 
 
 ## Logging/Monitoring/Alerting
