@@ -11,6 +11,7 @@
 - https://blog.acolyer.org/2019/11/20/local-first-software/
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Amazon Builder's Library](https://aws.amazon.com/builders-library/)
+  - https://aws.amazon.com/builders-library/challenges-with-distributed-systems/
 
 
 ## Books
