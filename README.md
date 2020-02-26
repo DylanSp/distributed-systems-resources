@@ -42,6 +42,7 @@
 - https://linuxczar.net/sysadmin/philosophy-on-alerting/
 - https://www.transposit.com/blog/2019.11.14-what-makes-a-good-runbook/
 - https://github.com/danielfm/prometheus-for-developers
+- https://blog.acolyer.org/2020/02/26/meaningful-availability/
 
 
 ## Microservices
