@@ -69,6 +69,7 @@
 
 ## AWS Cost Analysis
 - https://segment.com/blog/the-10m-engineering-problem/
+- https://www.lastweekinaws.com/blog/an-aws-bill-analysis-changelogs-md/
 
 
 ## Simultaneous Work (operational transforms, conflict-free replicated data types, etc.)
