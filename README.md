@@ -79,6 +79,7 @@
 - https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/
   - Also see discussion: https://news.ycombinator.com/item?id=22039950
 - https://replicache.dev/ - Offline-first app development
+- https://crdt.tech/ - CRDT reference
 
 
 ## Chaos Engineering
